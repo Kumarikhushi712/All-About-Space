@@ -1,6 +1,6 @@
 # 🌌 All-About-Space
 
-Welcome to **All-About-Space**! 🚀 This project is dedicated to bridging the gap between the rapidly advancing field of space exploration and the knowledge available to the general public. Our mission is to create a minimalistic, beginner-friendly web app that makes learning about space accessible, engaging, and accurate.
+Welcome to **All-About-Space**! 🚀 This project is dedicated to bridging the gap between the rapidly advancing field of space exploration and the knowledge available to the general public. The mission is to create a minimalistic, beginner-friendly web app that makes learning about space accessible, engaging, and accurate.
 
 ![Screenshot_20240822_222203](https://github.com/user-attachments/assets/1d094ac8-2086-4cfb-bb38-ca61ab4ef502)
 
@@ -39,7 +39,7 @@ Space exploration has made incredible strides in the past decade, yet much of th
 - **🔍 AI**: Filtering information, AI assistant, and real-time summaries.
 - **🔗 API**: Integration of external data sources for up-to-date content.
 
-## 🚀 Our Vision
+## 🚀 The Vision
 
 We believe that by making space knowledge more accessible and accurate, we can inspire a larger base of space enthusiasts. **All-About-Space** is more than just a learning tool—it's a catalyst for space literacy, helping to build a community of informed and passionate individuals. 🌠
 
@@ -50,11 +50,3 @@ Join us on this journey to make space exploration knowledge available to everyon
 We welcome contributions from anyone passionate about space and education. Whether you're a developer, designer, or space enthusiast, your input can help us make **All-About-Space** even better.
 
 Feel free to fork this repository, submit issues, or suggest features! 💡
-
-## 📫 Contact
-
-For any questions, suggestions, or collaborations, please reach out at [Your Email]. 📩
-
----
-
-*Happy Learning and Exploring!* 🚀
