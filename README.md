@@ -28,7 +28,6 @@ Hey, I’m **Khushi** — space enthusiast and coder, on a mission to make space
 Dive in, explore, and let's make space knowledge viral!
 
 ---
-
-Made with 💖 by Khushi  
+# Contact info :-  
 GitHub: [Kumarikhushi712](https://github.com/Kumarikhushi712)  
 Email: khushi087singh@gmail.com
